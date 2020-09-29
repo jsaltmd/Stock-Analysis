@@ -15,11 +15,11 @@ Performing analysis to complete the module 2 challenge
 
 Chart 1:
 
-![Chart 1](Resources/VBA_Challenge_2017.png)
+![](./Resources/2017_All_Stocks_Analysis_Results.png)
 
 Chart 2:
 
-![](./Resources/2018 All Stocks Analysis Results.png)
+![](./Resources/2018_All_Stocks_Analysis_Results.png)
 
 ### Execution Times Analysis between Original vs Refactored Scripts 
 
