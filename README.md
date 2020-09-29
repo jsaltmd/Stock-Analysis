@@ -13,11 +13,11 @@ Performing analysis to complete the module 2 challenge
 
 -   Based on the data analysis, all stocks in the year 2017 performed very well except for the company that has a ticker symbol of “TERP” were the return is -7.2% (refer to chart 1). The DQ symbol which Steve’s parents are interested in, has been fairly traded with the highest return value of 199.4% amongst the rest of the stocks. This is a sign of a good stock for short-term investment because it offers the most profit potential. However, because DQ is only fairly traded, meaning the stock is not in demand (low volume compared to others) it is not good for long term investment because it is not sustainable. This is highlighted in the year 2018 performance were the DQ trading activity is lower compared to most of the stocks except “AY” and with the lowest return percentage of -62.6%.  Most of the stocks in year 2018 have lower returns as well but not as unstable as DQ except for stock symbols ENPH and RUN with positive returns 81.9% and 84.0%, respectively (refer to chart 2). One can assume that the amount of volume should help predict the success in returns. However, that is not the case for the data set presented below (charts 1 and 2). The data shows that there is no correlation between the total daily volume and return. Therefore, I would recommend to Steve that his parents should invest on stocks that are less volatile (e.g. ENPH and RUN).   
 
-#####Chart 1:
+Chart 1:
 
 ![](./Resources/2017 All Stocks Analysis Results.png)
 
-#####Chart 2:
+Chart 2:
 
 ![](./Resources/2018 All Stocks Analysis Results.png)
 
