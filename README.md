@@ -15,7 +15,7 @@ Performing analysis to complete the module 2 challenge
 
 Chart 1:
 
-![](./Resources/2017 All Stocks Analysis Results.png)
+![Chart 1](Resources/2017 All Stocks Analysis Results.png)
 
 Chart 2:
 
