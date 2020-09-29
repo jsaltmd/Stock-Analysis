@@ -35,4 +35,4 @@ Chart 2:
 
 - Original VBA scripts can be used as is and it works! However, it can ran longer and will be harder to maintain in the future when a new programmer uses it.
 
-- Refactored VBA scripts will be efficient and therefore easier to maintain due to code readability or shorter and reduced complexity. The codes are presented well and organized. On the other hand, it took me almost the same amount of time spent refactoring the codes versus writing the original codes due to troubleshooting. I encountered sev eral errors and spent a lot of time fixing them. The end result saved only a bit of time analyzing the codes.
+- Refactored VBA scripts will be efficient and therefore easier to maintain due to code readability or shorter and reduced complexity. The codes are presented well and organized. On the other hand, it took me almost the same amount of time spent refactoring the codes versus writing the original codes due to troubleshooting. I encountered several errors and spent a lot of time fixing them. The end result saved only a bit of time analyzing the codes.
